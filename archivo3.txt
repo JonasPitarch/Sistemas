@@ -1,0 +1,11 @@
+ID,Producto,Precio
+1,Camiseta,15.99
+2,Pantalón,29.99
+3,Zapatos,39.99
+4,Reloj,49.99
+5,Bolso,19.99
+6,Gorra,9.99
+7,Chaqueta,59.99
+8,Gafas de sol,29.99
+9,Cinturón,12.99
+10,Bufanda,14.99

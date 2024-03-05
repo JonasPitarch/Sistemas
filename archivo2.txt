@@ -1,0 +1,11 @@
+ID,Nombre,Edad,Ciudad
+1,Juan,30,Madrid
+2,María,25,Barcelona
+3,Antonio,35,Valencia
+4,Sofía,28,Sevilla
+5,Carlos,40,Bilbao
+6,Ana,22,Granada
+7,Luis,33,Málaga
+8,Elena,27,Salamanca
+9,Pablo,31,Zaragoza
+10,Isabel,29,Alicante

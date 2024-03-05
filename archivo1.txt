@@ -1,0 +1,12 @@
+ID,Libro,Autor,Editorial
+1,El señor de los anillos,J.R.R. Tolkien,Minotauro
+2,Cien años de soledad,Gabriel García Márquez,Sudamericana
+3,Harry Potter y la piedra filosofal,J.K. Rowling,Salamandra
+4,1984,George Orwell,Debolsillo
+5,Orgullo y prejuicio,Jane Austen,Alba Editorial
+6,La sombra del viento,Carlos Ruiz Zafón,Planeta
+7,Crónica de una muerte anunciada,Gabriel García Márquez,Debolsillo
+8,Don Quijote de la Mancha,Miguel de Cervantes,Santillana
+9,El código Da Vinci,Dan Brown,Planeta
+10,Los pilares de la Tierra,Ken Follett,Debolsillo
+
